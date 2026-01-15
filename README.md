@@ -1,60 +1,61 @@
-🌍 Disaster Relief Coordination Platform
-📌 Project Overview
+# 🌍 Disaster Relief Coordination Platform
 
-This project is a Disaster Relief Coordination Platform built using Next.js that helps NGOs and government agencies collaborate through open APIs and real-time dashboards during natural disasters such as floods, earthquakes, and cyclones.
+## 📌 Project Overview
 
-The platform acts as a central command system where all relief-related data — food, shelters, rescue teams, and affected people — is collected, processed, and displayed in one place so decisions can be made quickly and accurately.
+This project is a **Disaster Relief Coordination Platform** built using **Next.js** that helps NGOs and government agencies collaborate through **open APIs and real-time dashboards** during natural disasters such as floods, earthquakes, and cyclones.
 
-❓ Why We Are Building This
+The platform acts as a **central command system** where all relief-related data — food, shelters, rescue teams, and affected people — is collected, processed, and displayed in one place so decisions can be made quickly and accurately.
 
-During disasters, relief operations often fail not because resources are unavailable, but because information is scattered across different NGOs and government departments.
+---
 
-Common problems today:
+## ❓ Why We Are Building This
 
-NGOs don’t know what other NGOs have supplied
+During disasters, relief operations often fail not because resources are unavailable, but because **information is scattered** across different NGOs and government departments.
 
-Government doesn’t know which shelters are full
+### Common problems today:
 
-Rescue teams don’t know where help is needed most
+* NGOs don’t know what other NGOs have supplied
+* Government doesn’t know which shelters are full
+* Rescue teams don’t know where help is needed most
+* Decisions are made using outdated or incomplete data
 
-Decisions are made using outdated or incomplete data
+### This results in:
 
-This results in:
+* Wasted food and medicine
+* Overcrowded shelters
+* Delayed rescue operations
 
-Wasted food and medicine
+Our platform solves this by creating a **single real-time data hub** where:
 
-Overcrowded shelters
+* NGOs can upload what they are providing
+* Government can monitor and coordinate
+* Everyone sees the same live situation
 
-Delayed rescue operations
+This leads to **faster response, better planning, and more lives saved**.
 
-Our platform solves this by creating a single real-time data hub where:
+---
 
-NGOs can upload what they are providing
+## 🚀 Future Scope
 
-Government can monitor and coordinate
+This platform can be expanded into a **national-level disaster management system**. In the future, it can support:
 
-Everyone sees the same live situation
+* 📍 GPS tracking of rescue teams and relief vehicles
+* 🤖 AI-based prediction of shortages and high-risk areas
+* 🌐 Integration with international relief organizations
+* 📊 Advanced analytics for government planning and budgeting
 
-This leads to faster response, better planning, and more lives saved.
+With these additions, the system can become a **complete digital backbone for disaster response**.
 
-🚀 Future Scope
+---
 
-This platform can be expanded into a national-level disaster management system. In the future, it can support:
+## 👥 Team
 
-📍 GPS tracking of rescue teams and relief vehicles
+| Name        | Role                                      |
+| ----------- | ----------------------------------------- |
+| **Pranav**  | System Design, Backend Architecture, APIs |
+| **Nishant** | Frontend UI, Dashboard Design             |
+| **Tanmya**  | Testing, DevOps, Documentation            |
 
-🤖 AI-based prediction of shortages and high-risk areas
+---
 
-🌐 Integration with international relief organizations
-
-📊 Advanced analytics for government planning and budgeting
-
-With these additions, the system can become a complete digital backbone for disaster response.
-
-👥 Team
-Name	Role
-Pranav:	System Design, Backend Architecture, APIs
-Nishant:	Frontend UI, Dashboard Design
-Tanmya:	Testing, DevOps, Documentation
-
-This project represents our vision of how technology, real-time data, and collaboration can make disaster relief operations faster, smarter, and more effective.
+This project represents our vision of how **technology, real-time data, and collaboration** can make disaster relief operations faster, smarter, and more effective.
